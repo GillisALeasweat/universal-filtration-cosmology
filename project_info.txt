@@ -1,0 +1,4 @@
+Universal Filtration & Biomorphic Cosmology (v2.0)
+Archived on: 2026/9/28 23:20:20
+Host URL: https://ais-dev-ynwfv7bszvroowgepudgnk-151656284540.asia-northeast1.run.app
+Framework: React 19 + TypeScript + Vite + TailwindCSS

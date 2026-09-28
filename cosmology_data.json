@@ -1,0 +1,188 @@
+{
+  "project": "Universal Filtration & Biomorphic Cosmology",
+  "version": "2.0.0",
+  "exportedAt": "2026-09-28T14:20:20.094Z",
+  "dimensions": [
+    {
+      "id": "absolute-nothingness",
+      "name": "Absolute Nothingness (\"Manifest Potential\")",
+      "japaneseName": "Level 0：絶対的無（未定義の可能性の海）",
+      "level": 0,
+      "category": "source",
+      "description": "一切の物理法則も時間も空間も存在しない純粋な無でありながら、未分化のあらゆる可能性を内包する最外層の純粋基底。",
+      "role": "万物の最初の源泉であり、定義化エネルギーが零れ落ちる無限のポテンシャル場。",
+      "scientificAnalog": "量子真空の究極的拡張、プレ・ポテンシャル空間、西田幾多郎の「絶対無の場所」。",
+      "criticalChallenge": "「何もない」状態から自発的対称性の破れによって最初の界面が形成される相転移確率の定式化。",
+      "breakthroughScore": 95
+    },
+    {
+      "id": "filter-membrane",
+      "name": "Macrocosmic Boundary Hyper-Membrane",
+      "japaneseName": "Level 1：メタ存在論境界（全宇宙すら素粒子1粒となる超外膜）",
+      "level": 1,
+      "category": "filter",
+      "description": "未定義の有が満ちた無から零れ出た実体と無が相互干渉して自立形成された超外郭。私たちが観測する930億光年の全宇宙（数千億の銀河）すら素粒子1粒にすぎない領域として包摂する、存在論そのものの外皮。",
+      "role": "未定義から定義化エネルギーを粗濾過する最初の界面膜。調整者は不要で、自律的に安定存在し内部宇宙を守る。",
+      "scientificAnalog": "超弦理論のメタ・バルク外境界、ホログラフィック・スクリーン、カシミール相境界。",
+      "criticalChallenge": "超外膜スケール（メタ存在論）と内部宇宙（プランク〜ハッブル長）を架橋する極限的階層性の数理記述。",
+      "breakthroughScore": 99
+    },
+    {
+      "id": "multiverse-soup",
+      "name": "11-Dimensional Generative & Buffer Soup",
+      "japaneseName": "Level 2：11次元緩衝・創発エネルギースープ（M理論バルク）",
+      "level": 2,
+      "category": "medium",
+      "description": "無数に広がる次元膜の激突・消滅を防ぐ「究極の緩衝材（クッション）」であり、同時に膜の代謝・創発エネルギーを供給する超高圧原液プール。現代物理学の最高峰「M理論（11次元時空）」の限界値と寸分違わず合致する。",
+      "role": "すべての次元膜を浮かべる浮力と張力（暗黒エネルギー）を提供し、膜の細胞分裂を支える栄養母体。",
+      "scientificAnalog": "M理論における11次元時空（11D Supergravity / Bulk）、ブレーンワールドを包摂する高次元流体。",
+      "criticalChallenge": "11次元超重力場方程式と、内部次元膜へのワープ浸透率の精密解。",
+      "breakthroughScore": 100
+    },
+    {
+      "id": "membrane-drip-cascade",
+      "name": "Multi-Phased Warped Membrane Cascade",
+      "japaneseName": "Level 3：多重分化次元膜（ドリップ濾過カスケード）",
+      "level": 3,
+      "category": "filter",
+      "description": "高次元は単なる数字の階段ではなく、同一のn次元でも「n₁、n₂…」と無数に位相分化。縦横無尽に広がる次元膜を通過するたびに、超高圧の11次元エネルギーがドリップコーヒーのように濾過されマイルドに減衰する。",
+      "role": "高次元の暴力的エネルギー毒性を抜き去り、下層の宇宙が耐えられる穏やかなエネルギーへと調律するフィルター。",
+      "scientificAnalog": "ランダル・サンドラム模型（ワープした余剰次元）、カラビ・ヤウ多様体のコンパクト化ランドスケープ。",
+      "criticalChallenge": "同次元内での位相分化幾何学（カラビ・ヤウ空間）のモジュライ安定化。",
+      "breakthroughScore": 98
+    },
+    {
+      "id": "cell-dividing-layers",
+      "name": "Cell-Dividing Dimensional Membrane Layers",
+      "japaneseName": "Level 4：生体型・次元膜細胞分裂（パラレルワールドの真実）",
+      "level": 4,
+      "category": "membrane",
+      "description": "SFでありがちな「宇宙丸ごとの無限コピー」というエネルギー破綻を完全打破。11次元緩衝スープのエネルギーを栄養に、次元膜そのものが生物のように「細胞分裂（くびれ分岐）」して多世界を形成する。",
+      "role": "観測や可能性の分岐が生じるたびに、次元膜が細胞分裂のようにくびれて滑らかに平行世界シートを増殖・隔離。",
+      "scientificAnalog": "エヴェレットの多世界解釈のトポロジカル相転移、ブレーンの生体形態形成論的自己複製。",
+      "criticalChallenge": "細胞分裂時の膜張力配分と、隣接する分裂次元間での重力漏洩の精密測定。",
+      "breakthroughScore": 99
+    },
+    {
+      "id": "observable-universe",
+      "name": "Observable Universe as 4-5D Manifold (3D EM Projection)",
+      "japaneseName": "Level 5：内包宇宙（実態としての4〜5次元空間 ＆ 電磁気的3次元投影）",
+      "level": 5,
+      "category": "matter",
+      "description": "純粋な厚みゼロの3次元空間はそもそも存在せず、私たちの宇宙の実態は4〜5次元の広がりを持つワープ膜（ランダル・サンドラム模型の5次元時空）。光（電磁気力）や物質粒子が膜表面に拘束されているため人間には3次元的作用としてしか可視化できないが、重力やダークマターはその4〜5次元の厚みへと自由に染み出している。マイルドに濾過された低次元スープが満ちる生息域。",
+      "role": "星や銀河、そして生命が安定して誕生・活動できる穏やかな物理定数を維持し、光による3次元世界の安定投影面を提供する。",
+      "scientificAnalog": "ランダル・サンドラム（Randall-Sundrum）5次元ワープ模型、カルツァ＝クライン理論、ブレーンワールドにおける開弦（光）の拘束と閉弦（重力子）のバルク漏洩。",
+      "criticalChallenge": "4〜5次元空間の微小な厚み（サブミリメートルスケール）における重力逆二乗則の精密測定。",
+      "breakthroughScore": 99
+    },
+    {
+      "id": "collective-intelligence",
+      "name": "Collective Intelligence Entity (Frontier Expansion)",
+      "japaneseName": "Level 6：集合知性フロンティア開拓（知性の純度濾過）",
+      "level": 6,
+      "category": "filter",
+      "description": "星々で生まれた無数の生命が、物質的エントロピーの肉体を脱ぎ捨て、純粋な「定義化エネルギー（知性）」として抽出・還元された最上位集合知。宇宙の管理者ではなく、未定義を取り込んで内部領域を拡張するフロンティア開拓者。",
+      "role": "漏出する定義化エネルギーの捕集・保全、および未定義資源の取り込みによる内部宇宙の自己増殖的拡張。",
+      "scientificAnalog": "散逸構造論（イリヤ・プリゴジン）、情報熱力学、ガイア理論の宇宙規模超越。",
+      "criticalChallenge": "知性による情報エントロピー低減率と、内部空間拡張速度の幾何学的相関。",
+      "breakthroughScore": 98
+    },
+    {
+      "id": "black-hole-reflux-valve",
+      "name": "Singularity Jet Exhaust Valve & Intra-Membrane Reflux",
+      "japaneseName": "Level 7：特異点排熱バルブ（宇宙の室外機＆膜内高次元還流）",
+      "level": 7,
+      "category": "valve",
+      "description": "ブラックホール特異点を双方向代謝バルブとして再定義。特異点が接続する高次元は超高圧な生の11次元原液ではなく、次元膜内で既に濾過された「11次元より低い中間層の高次元スープ（膜内高次元領域）」。これにより次元圧力の破局的短絡（ショート）を防ぎつつ、3次元化する余剰熱を光速の99%ジェットで片側宇宙へ排熱し（反動は高次元へ逃がす）、純エネルギーをこの膜内高次元スープへ還流させて熱力学第二法則をクリアする。",
+      "role": "宇宙の熱的死を永久に防ぐ「宇宙の室外機」であり、次元圧差を調整する変圧器。エントロピーを排熱し、純エネルギーを濾過済み高次元へ還流する閉ループ代謝エンジン。",
+      "scientificAnalog": "相対論的宇宙ジェット（ブランドフォード・ナジェック機構）、ER=EPR（ワームホール）、熱力学第二法則の散逸構造、インピーダンス整合変圧器。",
+      "criticalChallenge": "膜内高次元スープ（中間次元）の有効次元数（5D〜6D）と、特異点地平面エントロピーの整合。",
+      "breakthroughScore": 100
+    },
+    {
+      "id": "micro-fractal-shell",
+      "name": "Microscopic Fractal Quantum Shell (Scale Invariance)",
+      "japaneseName": "Level 8：極微ミクロ・電子殻の確率濾過（マクロ構造の次元的継承とスケール不変性）",
+      "level": 8,
+      "category": "matter",
+      "description": "全ての下位次元はその外側のマクロ構造を親の鋳型として受け継いで内部に投影されているため、運動の物理スケールや時間軸（フェムト秒 vs 数億年）が桁違いに違っても、起きている本質的幾何学や代謝は「割と同じ」である。極大の「超外膜と未定義」と極小の「電子殻と量子確率波」が寸分違わず同じルールで動く完全フラクタル相似の根源原理。",
+      "role": "全一的濾過カスケードの終端。マクロの幾何学パターンがミクロの量子世界にまでDNAのように継承されている動かぬ証拠。",
+      "scientificAnalog": "くりこみ群（Renormalization Group）のスケール不変性、ホログラフィック原理（AdS/CFT対応）、自己相似フラクタル構造、ヘルメス主義「上なるものは下なるもののごとく」。",
+      "criticalChallenge": "極大の宇宙地平面エントロピーと極小のプランク面積エントロピーのスケール不変写像の定式化。",
+      "breakthroughScore": 100
+    }
+  ],
+  "phenomena": [
+    {
+      "id": "hubble-tension",
+      "realWorldProblem": "ハッブル・テンション（宇宙膨張率の深刻な不一致）",
+      "field": "観測的宇宙論",
+      "currentStalemate": "近傍銀河観測（73 km/s/Mpc）とCMB観測（67 km/s/Mpc）の乖離が5σを超え、標準模型の破綻が確実視されている。",
+      "frameworkSolution": "11次元緩衝スープの張力と次元膜の細胞分裂に伴う局所的張力変化により、赤方偏移依存の動的加速が生じている。",
+      "breakthroughViability": "High",
+      "viabilityScore": 98,
+      "keyObservationalFacilities": [
+        "JWST（ジェームズ・ウェッブ宇宙望遠鏡）",
+        "ナンシー・グレース・ローマン宇宙望遠鏡",
+        "Euclid宇宙望遠鏡"
+      ],
+      "hardPhysicalBarriers": [
+        "高次元張力パラメータと標準ΛCDMの音響ホライズン長の定量的キャリブレーション。"
+      ],
+      "mathematicalFormalizationPath": "11次元バルク張力方程式 T_bulk(z) を導入したフリードマン方程式の拡張。"
+    },
+    {
+      "id": "dark-matter-mystery",
+      "realWorldProblem": "ダークマター直接検出実験の40年間完全空振り",
+      "field": "素粒子物理学・宇宙論",
+      "currentStalemate": "地下実験（XENONnT, LUX-ZEPLIN）やLHC加速器実験でもWIMPや超対称性粒子が一切見つからず、既存仮説が手詰まり。",
+      "frameworkSolution": "ダークマターは素粒子ではなく「高次元からドリップ濾過された不完全物質の重力漏洩」。電磁気的に不可視なのは別次元に拘束されているため。",
+      "breakthroughViability": "High",
+      "viabilityScore": 99,
+      "keyObservationalFacilities": [
+        "LUX-ZEPLIN",
+        "XENONnT",
+        "すばる望遠鏡HSC（弱重力レンズ）"
+      ],
+      "hardPhysicalBarriers": [
+        "余剰次元への重力漏洩距離（サブミリメートルスケール）の逆二乗則検証。"
+      ],
+      "mathematicalFormalizationPath": "ランダル・サンドラム模型のワープ重力伝播関数 G_bulk による有効重力ポテンシャルの再計算。"
+    },
+    {
+      "id": "black-hole-information",
+      "realWorldProblem": "ブラックホール情報パラドックスと特異点の無限大",
+      "field": "量子重力理論",
+      "currentStalemate": "一般相対性理論では特異点が無限大に破綻し、量子力学では情報の消失が禁忌とされるため、両理論が激突。",
+      "frameworkSolution": "特異点は情報の終着点ではなく「双方向代謝バルブ」。エントロピー熱ゴミを相対論的ジェット（室外機）で排熱し、反動は高次元へ逃がして純エネルギーを高次元スープへ還流。",
+      "breakthroughViability": "High",
+      "viabilityScore": 100,
+      "keyObservationalFacilities": [
+        "Event Horizon Telescope (EHT)",
+        "次世代EHT (ngEHT)",
+        "重力波干渉計 (LIGO/Virgo/KAGRA/LISA)"
+      ],
+      "hardPhysicalBarriers": [
+        "特異点近傍の事象の地平面スケールにおける高次元反動散逸の直接分解能。"
+      ],
+      "mathematicalFormalizationPath": "ER=EPR幾何学とブランドフォード・ナジェック機構を結合した特異点散逸作用素 S_valve の定式化。"
+    },
+    {
+      "id": "many-worlds-mass-flaw",
+      "realWorldProblem": "多世界解釈におけるエネルギー・質量保存のパラドックス",
+      "field": "量子基礎論・科学哲学",
+      "currentStalemate": "観測ごとに全宇宙の質量が無から複製されるという説明が、物理学の最も強固な法則（エネルギー保存則）と真っ向から矛盾。",
+      "frameworkSolution": "宇宙丸ごとの無限コピーではなく、11次元緩衝スープのエネルギーを栄養に「次元膜そのものが細胞分裂」して分岐する。エネルギー保存則を寸分違わず遵守。",
+      "breakthroughViability": "High",
+      "viabilityScore": 99,
+      "keyObservationalFacilities": [
+        "超伝導量子ビット回路",
+        "巨視的量子重ね合わせ干渉実験"
+      ],
+      "hardPhysicalBarriers": [
+        "巨視的量子デヒーレンスと次元膜スプリットの相関タイムスケールの測定。"
+      ],
+      "mathematicalFormalizationPath": "ヒルベルト空間の分岐をブレーン幾何学のトポロジカル相転移（収縮環方程式）として記述。"
+    }
+  ]
+}
