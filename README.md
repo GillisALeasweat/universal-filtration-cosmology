@@ -1,112 +1,108 @@
 # Universal Filtration & Biomorphic Cosmology
-## Grand Unified Provisional Architecture v2.0
-*Public Domain Framework & Theory Specification*
+### *Grand Unified Provisional Architecture v2.0*
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-19.0-61dafb.svg)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4.0-38bdf8.svg)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+An ontological and mathematical meta-framework resolving fundamental anomalies in theoretical cosmology (the Hubble Tension, dark matter direct detection stalemates, the black hole information paradox, Everettian mass-conservation violation, and cosmic heat death) through a single, unbroken principle: **Universal Cascade Filtration** and **Closed-Loop Biomorphic Metabolism**.
 
 ---
 
-### 1. 概要 (Executive Summary)
-本フレームワークは、現代宇宙論が直面する4大難問（ハッブル・テンション、ダークマター未検出、多世界解釈の質量保存則破綻、熱的死）を、「全一的濾過カスケード（Universal Cascade Filtration）」と「生体膜分裂代謝（Biomorphic Brane Mitosis）」の単一原理によって完全解決した大統一モデルである。
+## 🌌 Overview
+
+Modern theoretical physics faces severe impasses:
+1. **The ΛCDM Crises:** The $5\sigma+$ Hubble Tension ($H_0$ discrepancy between Planck CMB and local SH0ES observations), 120-orders-of-magnitude cosmological constant fine-tuning problem, and 40-year failure of WIMP dark matter detection.
+2. **The Many-Worlds Paradox:** Conventional Everettian quantum mechanics assumes whole galaxies and universes clone *ex nihilo* upon each observation, explicitly violating the First Law of Thermodynamics (Mass-Energy Conservation).
+3. **Black Hole Singularity & Information Paradox:** General Relativity diverges to infinities ($\infty$) while Quantum Mechanics forbids information loss.
+4. **Cosmic Entropy & Heat Death:** Standard cosmology predicts a cold, permanently dead universe.
+
+**The Universal Filtration & Biomorphic Cosmological Framework (v2.0)** resolves all of these by formulating the universe not as an isolated, mechanical clockwork, but as a **self-organizing, multi-layered biological metabolic system** embedded in an 11-Dimensional buffer soup.
 
 ---
 
-### 2. 全8階層アーキテクチャ (The 8-Tier Architecture)
-#### Level 0：絶対的無（未定義の可能性の海） (Absolute Nothingness ("Manifest Potential"))
-- **役割:** 万物の最初の源泉であり、定義化エネルギーが零れ落ちる無限のポテンシャル場。
-- **詳細機構:** 一切の物理法則も時間も空間も存在しない純粋な無でありながら、未分化のあらゆる可能性を内包する最外層の純粋基底。
-- **物理・科学的類似点:** 量子真空の究極的拡張、プレ・ポテンシャル空間、西田幾多郎の「絶対無の場所」。
-- **整合性スコア:** 95%
+## 🏛️ The 8-Tier Base Architecture (Levels 0 – 8)
 
-#### Level 1：メタ存在論境界（全宇宙すら素粒子1粒となる超外膜） (Macrocosmic Boundary Hyper-Membrane)
-- **役割:** 未定義から定義化エネルギーを粗濾過する最初の界面膜。調整者は不要で、自律的に安定存在し内部宇宙を守る。
-- **詳細機構:** 未定義の有が満ちた無から零れ出た実体と無が相互干渉して自立形成された超外郭。私たちが観測する930億光年の全宇宙（数千億の銀河）すら素粒子1粒にすぎない領域として包摂する、存在論そのものの外皮。
-- **物理・科学的類似点:** 超弦理論のメタ・バルク外境界、ホログラフィック・スクリーン、カシミール相境界。
-- **整合性スコア:** 99%
-
-#### Level 2：11次元緩衝・創発エネルギースープ（M理論バルク） (11-Dimensional Generative & Buffer Soup)
-- **役割:** すべての次元膜を浮かべる浮力と張力（暗黒エネルギー）を提供し、膜の細胞分裂を支える栄養母体。
-- **詳細機構:** 無数に広がる次元膜の激突・消滅を防ぐ「究極の緩衝材（クッション）」であり、同時に膜の代謝・創発エネルギーを供給する超高圧原液プール。現代物理学の最高峰「M理論（11次元時空）」の限界値と寸分違わず合致する。
-- **物理・科学的類似点:** M理論における11次元時空（11D Supergravity / Bulk）、ブレーンワールドを包摂する高次元流体。
-- **整合性スコア:** 100%
-
-#### Level 3：多重分化次元膜（ドリップ濾過カスケード） (Multi-Phased Warped Membrane Cascade)
-- **役割:** 高次元の暴力的エネルギー毒性を抜き去り、下層の宇宙が耐えられる穏やかなエネルギーへと調律するフィルター。
-- **詳細機構:** 高次元は単なる数字の階段ではなく、同一のn次元でも「n₁、n₂…」と無数に位相分化。縦横無尽に広がる次元膜を通過するたびに、超高圧の11次元エネルギーがドリップコーヒーのように濾過されマイルドに減衰する。
-- **物理・科学的類似点:** ランダル・サンドラム模型（ワープした余剰次元）、カラビ・ヤウ多様体のコンパクト化ランドスケープ。
-- **整合性スコア:** 98%
-
-#### Level 4：生体型・次元膜細胞分裂（パラレルワールドの真実） (Cell-Dividing Dimensional Membrane Layers)
-- **役割:** 観測や可能性の分岐が生じるたびに、次元膜が細胞分裂のようにくびれて滑らかに平行世界シートを増殖・隔離。
-- **詳細機構:** SFでありがちな「宇宙丸ごとの無限コピー」というエネルギー破綻を完全打破。11次元緩衝スープのエネルギーを栄養に、次元膜そのものが生物のように「細胞分裂（くびれ分岐）」して多世界を形成する。
-- **物理・科学的類似点:** エヴェレットの多世界解釈のトポロジカル相転移、ブレーンの生体形態形成論的自己複製。
-- **整合性スコア:** 99%
-
-#### Level 5：内包宇宙（実態としての4〜5次元空間 ＆ 電磁気的3次元投影） (Observable Universe as 4-5D Manifold (3D EM Projection))
-- **役割:** 星や銀河、そして生命が安定して誕生・活動できる穏やかな物理定数を維持し、光による3次元世界の安定投影面を提供する。
-- **詳細機構:** 純粋な厚みゼロの3次元空間はそもそも存在せず、私たちの宇宙の実態は4〜5次元の広がりを持つワープ膜（ランダル・サンドラム模型の5次元時空）。光（電磁気力）や物質粒子が膜表面に拘束されているため人間には3次元的作用としてしか可視化できないが、重力やダークマターはその4〜5次元の厚みへと自由に染み出している。マイルドに濾過された低次元スープが満ちる生息域。
-- **物理・科学的類似点:** ランダル・サンドラム（Randall-Sundrum）5次元ワープ模型、カルツァ＝クライン理論、ブレーンワールドにおける開弦（光）の拘束と閉弦（重力子）のバルク漏洩。
-- **整合性スコア:** 99%
-
-#### Level 6：集合知性フロンティア開拓（知性の純度濾過） (Collective Intelligence Entity (Frontier Expansion))
-- **役割:** 漏出する定義化エネルギーの捕集・保全、および未定義資源の取り込みによる内部宇宙の自己増殖的拡張。
-- **詳細機構:** 星々で生まれた無数の生命が、物質的エントロピーの肉体を脱ぎ捨て、純粋な「定義化エネルギー（知性）」として抽出・還元された最上位集合知。宇宙の管理者ではなく、未定義を取り込んで内部領域を拡張するフロンティア開拓者。
-- **物理・科学的類似点:** 散逸構造論（イリヤ・プリゴジン）、情報熱力学、ガイア理論の宇宙規模超越。
-- **整合性スコア:** 98%
-
-#### Level 7：特異点排熱バルブ（宇宙の室外機＆膜内高次元還流） (Singularity Jet Exhaust Valve & Intra-Membrane Reflux)
-- **役割:** 宇宙の熱的死を永久に防ぐ「宇宙の室外機」であり、次元圧差を調整する変圧器。エントロピーを排熱し、純エネルギーを濾過済み高次元へ還流する閉ループ代謝エンジン。
-- **詳細機構:** ブラックホール特異点を双方向代謝バルブとして再定義。特異点が接続する高次元は超高圧な生の11次元原液ではなく、次元膜内で既に濾過された「11次元より低い中間層の高次元スープ（膜内高次元領域）」。これにより次元圧力の破局的短絡（ショート）を防ぎつつ、3次元化する余剰熱を光速の99%ジェットで片側宇宙へ排熱し（反動は高次元へ逃がす）、純エネルギーをこの膜内高次元スープへ還流させて熱力学第二法則をクリアする。
-- **物理・科学的類似点:** 相対論的宇宙ジェット（ブランドフォード・ナジェック機構）、ER=EPR（ワームホール）、熱力学第二法則の散逸構造、インピーダンス整合変圧器。
-- **整合性スコア:** 100%
-
-#### Level 8：極微ミクロ・電子殻の確率濾過（マクロ構造の次元的継承とスケール不変性） (Microscopic Fractal Quantum Shell (Scale Invariance))
-- **役割:** 全一的濾過カスケードの終端。マクロの幾何学パターンがミクロの量子世界にまでDNAのように継承されている動かぬ証拠。
-- **詳細機構:** 全ての下位次元はその外側のマクロ構造を親の鋳型として受け継いで内部に投影されているため、運動の物理スケールや時間軸（フェムト秒 vs 数億年）が桁違いに違っても、起きている本質的幾何学や代謝は「割と同じ」である。極大の「超外膜と未定義」と極小の「電子殻と量子確率波」が寸分違わず同じルールで動く完全フラクタル相似の根源原理。
-- **物理・科学的類似点:** くりこみ群（Renormalization Group）のスケール不変性、ホログラフィック原理（AdS/CFT対応）、自己相似フラクタル構造、ヘルメス主義「上なるものは下なるもののごとく」。
-- **整合性スコア:** 100%
-
+| Level | Component | Physical & Ontological Role |
+| :--- | :--- | :--- |
+| **Level 0** | **Absolute Void (*Ex Nihilo*)** | Undefined sea of pure potentiality; total absence of geometry, time, and physical laws. |
+| **Level 1** | **Meta-Ontological Boundary** | Autonomous outer membrane where the entire 93-billion light-year observable cosmos is scaled as a single subatomic particle. |
+| **Level 2** | **11-Dimensional Buffer Soup** | M-theory bulk fluid acting as an energetic cushion preventing catastrophic branes collision, providing cosmic tension and metabolic raw fuel. |
+| **Level 3** | **Multi-Differentiated Membrane Cascade** | Phase-differentiated sheets ($n_1, n_2, \dots$) executing "drip-coffee" attenuation of dangerous Planck-scale energy. |
+| **Level 4** | **Biomorphic Membrane Mitosis** | Real parallel-world branching: brane sheets undergo cellular cytokinesis fueled by the 11D soup, strictly conserving mass-energy. |
+| **Level 5** | **Observable Universe (4–5D Reality)** | Physical reality is a 4–5D warped manifold; electromagnetic radiation (light) is confined to the brane surface, projecting a 3D perception bias. |
+| **Level 6** | **Collective Intelligence Reduction** | Conscious experience purified from entropy into structured informational energy, expanding the internal cosmic frontier. |
+| **Level 7** | **Singularity Jet Valve & Intra-Membrane Reflux** | Black hole singularities act as outdoor AC compressors; 99% $c$ relativistic jets exhaust entropy debris while recoils bleed into higher dimensions. |
+| **Level 8** | **Microscopic Quantum Fractal Shell** | Lower dimensions inherit outer macro-geometry; electron clouds filter probability waves into defined matter (Scale Invariance). |
 
 ---
 
-### 3. 14大洞察 (The 14 Fundamental Insights)
-1. **洞察①：膜張力効果（暗黒エネルギー）** — 宇宙の加速膨張は空間自体の自発膨張ではなく、外側にある11次元緩衝スープとの相互作用による次元膜の張力（抗力）である。
-2. **洞察②：特異点の室外機排熱** — 相対論的ジェットはエントロピーゴミを外へ捨てる室外機であり、熱的死を永久に防いでいる。
-3. **洞察③：知性のフロンティア開拓** — 生命の知性は宇宙の維持者ではなく、漏洩する定義を捕集し未定義を取り込んで内部を拡張する開拓者。
-4. **洞察④：真のスケール感** — 私たちの全観測宇宙（930億光年）ですら、最外郭のメタ境界から見れば素粒子1粒にすぎない。
-5. **洞察⑤：特異点放出の高次元反動散逸** — 一方への超絶ジェット噴射の反動は、膜内高次元側へ抜けることで運動量保存則を満たす。
-6. **洞察⑥：ミクロとマクロのフラクタル相似** — 超外膜と原子・素粒子は、まったく同一のルールで動くフラクタル相似形。
-7. **洞察⑦：同次元多重分化** — 高次元は単一の階段ではなく、同一のn次元でもn₁, n₂…と無数に位相分化している。
-8. **洞察⑧：究極の基底「11次元スープ」** — 膜の激突を防ぐ緩衝材であり、全エネルギーの供給源（M理論バルク）。
-9. **洞察⑨：階層的ドリップ濾過** — 11次元の超高圧原液が次元膜を通過する過程で減衰し、穏やかな低次元スープとして宇宙を満たす。
-10. **洞察⑩：全一的一貫濾過体系** — 未定義から11次元、次元膜、知性、ブラックホール、電子殻に至るまで、全てが「濾過」で貫通している。
-11. **洞察⑪：次元膜の細胞分裂多世界** — SFのような宇宙丸ごとの無限コピーではなく、次元膜そのものが細胞分裂のようにくびれて増殖する（ΔE=0）。
-12. **洞察⑫：ブラックホールの次元変圧接続** — 特異点が繋がる先は11次元原液ではなく、濾過済みの膜内中間高次元（11次元未満）。次元ショート崩壊を防ぐ変圧器。
-13. **洞察⑬：観測宇宙の4〜5次元実態論** — 純粋な3次元空間は存在しない。実態は4〜5次元の広がりがあり、光（電磁気）が膜に張り付いているため3次元的作用としてしか可視化できない。
-14. **洞察⑭：親マクロの幾何学的継承とスケール不変性** — 下位次元は外側のマクロ構造を親の鋳型として作られている。運動の物理スケール（フェムト秒 vs 億年）が違っても、起きている幾何学は割と同じである。
+## 💡 The 14 Core Insights
+
+1. **Membrane Tension as Dark Energy:** Cosmic acceleration is the elastic membrane tension sustained by the 11D buffer soup.
+2. **The Singularity Outdoor AC Unit:** Relativistic jets exhaust thermal entropy debris outward, preventing cosmic heat death.
+3. **Intelligence as Frontier Expansion:** Consciousness captures escaping definitions and digests undefined void into internal geometry.
+4. **True Cosmic Scale Inversion:** The entire observable cosmos is merely one elementary particle on the meta-boundary.
+5. **High-Dimensional Recoil Dissipation:** One-sided astrophysical jets preserve total momentum by bleeding recoil vectors into extra dimensions.
+6. **Micro-Macro Fractal Self-Similarity:** Quantum shells and cosmic boundaries are isomorphic copies operating on the same geometry.
+7. **Iso-Dimensional Multi-Differentiation:** Equal dimension orders branch into uncountably infinite topological phases ($n_1, n_2$).
+8. **11-Dimensional Buffer Ground State:** The ultimate boundary matches M-Theory's 11D supersymmetry limit.
+9. **Drip Filtration Cascade:** High-dimensional energy undergoes warp attenuation, arriving as mild vacuum energy ($10^{-120}$).
+10. **The Single Filtration Law:** One unified filtration principle governs from primordial void to atomic electron shells without exception.
+11. **Cellular Mitosis of Brane Sheets:** Many-worlds branching is biological cytokinesis, respecting $\Delta E = 0$.
+12. **Singularity Transformer Impedance Match:** Black holes connect to filtered, intra-membrane dimensions ($<11$D), preventing catastrophic 11D backflow short-circuits.
+13. **4–5D Reality with 3D Electromagnetic Projection:** Open strings (photons/matter) are pinned to the brane; only gravity leaks into 4–5D space.
+14. **Scale Invariance & Macro-Geometric Inheritance:** Sub-dimensions inherit parent macro templates; femtosecond quantum transitions mirror billion-year cosmic cycles.
 
 ---
 
-### 4. 現代物理学との実証的照合 (Empirical Validation)
-#### ハッブル・テンション（宇宙膨張率の深刻な不一致） (観測的宇宙論)
-- **従来の難問:** 近傍銀河観測（73 km/s/Mpc）とCMB観測（67 km/s/Mpc）の乖離が5σを超え、標準模型の破綻が確実視されている。
-- **本モデルの解:** 11次元緩衝スープの張力と次元膜の細胞分裂に伴う局所的張力変化により、赤方偏移依存の動的加速が生じている。
-- **検証観測計画:** JWST（ジェームズ・ウェッブ宇宙望遠鏡）, ナンシー・グレース・ローマン宇宙望遠鏡, Euclid宇宙望遠鏡 (整合度: 98%)
+## 🔬 Interactive Features in the Application
 
-#### ダークマター直接検出実験の40年間完全空振り (素粒子物理学・宇宙論)
-- **従来の難問:** 地下実験（XENONnT, LUX-ZEPLIN）やLHC加速器実験でもWIMPや超対称性粒子が一切見つからず、既存仮説が手詰まり。
-- **本モデルの解:** ダークマターは素粒子ではなく「高次元からドリップ濾過された不完全物質の重力漏洩」。電磁気的に不可視なのは別次元に拘束されているため。
-- **検証観測計画:** LUX-ZEPLIN, XENONnT, すばる望遠鏡HSC（弱重力レンズ） (整合度: 99%)
-
-#### ブラックホール情報パラドックスと特異点の無限大 (量子重力理論)
-- **従来の難問:** 一般相対性理論では特異点が無限大に破綻し、量子力学では情報の消失が禁忌とされるため、両理論が激突。
-- **本モデルの解:** 特異点は情報の終着点ではなく「双方向代謝バルブ」。エントロピー熱ゴミを相対論的ジェット（室外機）で排熱し、反動は高次元へ逃がして純エネルギーを高次元スープへ還流。
-- **検証観測計画:** Event Horizon Telescope (EHT), 次世代EHT (ngEHT), 重力波干渉計 (LIGO/Virgo/KAGRA/LISA) (整合度: 100%)
-
-#### 多世界解釈におけるエネルギー・質量保存のパラドックス (量子基礎論・科学哲学)
-- **従来の難問:** 観測ごとに全宇宙の質量が無から複製されるという説明が、物理学の最も強固な法則（エネルギー保存則）と真っ向から矛盾。
-- **本モデルの解:** 宇宙丸ごとの無限コピーではなく、11次元緩衝スープのエネルギーを栄養に「次元膜そのものが細胞分裂」して分岐する。エネルギー保存則を寸分違わず遵守。
-- **検証観測計画:** 超伝導量子ビット回路, 巨視的量子重ね合わせ干渉実験 (整合度: 99%)
-
+- **🧬 Universal Cascade Filtration Matrix:** Interactive multi-step visual roadmap tracing energy from Level 0 to Level 8.
+- **🔬 Dimensional Mitosis Simulator:** Real-time canvas simulation of biological parallel-world cell divisions, relativistic jet exhaust beams, and Second-Law entropy compensation.
+- **⚡ Non-Equilibrium Thermodynamic Reflux Engine:** D3-powered quantitative engine computing mass-to-jet entropy conversion and reflux percentages.
+- **🔭 Empirical Physics Cross-Verification:** Quantitative mappings to current observational programs (JWST, Roman Space Telescope, ngEHT, LIGO/Virgo/KAGRA).
+- **⚖️ Four Academic Peer-Review Perspectives:** Rigorous evaluations across M-Theory, Information Thermodynamics, Meta-Ontology, and Biomorphic Morphogenesis.
+- **🤖 Deep AI Peer-Review Console:** Integrated Gemini-powered dialogic interrogation engine for real-time theoretical probes.
 
 ---
-*Generated by Universal Filtration & Biomorphic Cosmology Engine*
-*Timestamp: 2026-09-30T05:15:56.562Z*
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v18.0.0 or higher)
+- npm or bun
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/universal-filtration-cosmology.git
+
+# Enter the project directory
+cd universal-filtration-cosmology
+
+# Install dependencies
+npm install
+```
+
+### Development Server
+```bash
+# Run the dev server on port 3000
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Production Build
+```bash
+# Compile TypeScript and build client assets
+npm run build
+
+# Start production server
+npm run start
+```
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
